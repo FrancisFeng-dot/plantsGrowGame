@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flowarbed",
+    "texture": "b94f23db-9dd0-4d59-9e8d-ed1962470aad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      360,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      360,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "whitedove",
+    "texture": "462c0dd9-9258-4752-bace-33623dff79fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      244,
+      113
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      244,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

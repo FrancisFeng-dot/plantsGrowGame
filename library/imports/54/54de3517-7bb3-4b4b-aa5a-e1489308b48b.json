@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "croppanel",
+    "texture": "297a283d-d31f-4d8a-9c7a-3a510c4b0a6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      917
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      917
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

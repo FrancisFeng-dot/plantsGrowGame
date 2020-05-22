@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tinyhandanim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            179.5,
+            -66
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            196,
+            -96
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

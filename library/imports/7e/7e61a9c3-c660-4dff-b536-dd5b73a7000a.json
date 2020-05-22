@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightwave02",
+    "texture": "08068ece-74df-4be9-a074-f06fe1f45908",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

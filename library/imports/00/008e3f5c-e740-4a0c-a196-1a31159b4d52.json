@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shutdown",
+    "texture": "4eae335b-cd01-4baf-a805-bc908c9e8281",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

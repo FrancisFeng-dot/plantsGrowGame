@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconnote",
+    "texture": "631cceb7-91b2-4485-b9a8-266254a21bf8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      36
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      36,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

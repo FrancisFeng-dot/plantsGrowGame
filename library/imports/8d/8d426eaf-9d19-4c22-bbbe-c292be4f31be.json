@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "layermask",
+    "texture": "fad70c67-7bf2-4c5b-8459-b35cf5a6f5a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      560,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

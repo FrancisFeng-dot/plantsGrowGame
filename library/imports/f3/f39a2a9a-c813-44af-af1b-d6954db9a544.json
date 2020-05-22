@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "infotextareaback",
+    "texture": "35fc4291-2efa-4b13-9c90-e1241a0a0fa0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      495,
+      193
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      496,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

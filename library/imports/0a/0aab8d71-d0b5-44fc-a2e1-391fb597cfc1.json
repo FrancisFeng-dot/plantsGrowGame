@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaves5",
+    "texture": "d8be9c71-acd9-46c8-a13b-b2d092029ecd",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      206,
+      171
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      208,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

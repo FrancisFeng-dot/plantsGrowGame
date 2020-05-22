@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnschedule",
+    "texture": "bb075a32-5718-4371-893e-038921c1f1e0",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      280,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

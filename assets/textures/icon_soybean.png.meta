@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bb27d0f1-8968-4f8c-8f46-2cad34dabd4b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_soybean": {
+      "ver": "1.0.4",
+      "uuid": "964097c7-c49a-4b9a-bbd5-9b612535ba76",
+      "rawTextureUuid": "bb27d0f1-8968-4f8c-8f46-2cad34dabd4b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 253,
+      "height": 321,
+      "rawWidth": 256,
+      "rawHeight": 322,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

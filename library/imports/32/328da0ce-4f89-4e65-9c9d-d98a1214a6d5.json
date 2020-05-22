@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reqinfoback01",
+    "texture": "bbe1199d-ad9c-48ac-94c3-ed8c418f0733",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      802
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      802
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

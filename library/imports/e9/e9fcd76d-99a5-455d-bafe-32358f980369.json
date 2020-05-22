@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconsoybean",
+    "texture": "29d786c8-9cdb-40d1-b947-d411d88af7de",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      49,
+      40
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      52,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

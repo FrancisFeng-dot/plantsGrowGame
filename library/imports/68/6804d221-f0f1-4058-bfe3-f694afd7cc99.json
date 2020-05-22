@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "farmershare",
+    "texture": "8c7f53df-5b3b-47c2-bfae-6f3d9bb98981",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      504,
+      525
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      504,
+      526
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

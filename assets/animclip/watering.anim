@@ -1,0 +1,195 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "watering",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.183333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "tiltedkettle": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 30
+            },
+            {
+              "frame": 1,
+              "value": -30
+            },
+            {
+              "frame": 2.183333333333333,
+              "value": -30
+            },
+            {
+              "frame": 3.183333333333333,
+              "value": 30
+            }
+          ]
+        }
+      },
+      "iconwaterdrop4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -57,
+                -95
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -57,
+                -255
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "iconwaterdrop3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.0333333333333334,
+              "value": [
+                -24,
+                -81
+              ]
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": [
+                -24,
+                -247
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.0166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.05,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "iconwaterdrop2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.05,
+              "value": [
+                -80,
+                -68
+              ]
+            },
+            {
+              "frame": 2.05,
+              "value": [
+                -80,
+                -216
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.05,
+              "value": 255
+            },
+            {
+              "frame": 2.05,
+              "value": 255
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "iconwaterdrop1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -58,
+                -88
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                -58,
+                -213
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.15,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 2.183333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 3.183333333333333,
+      "func": "hidehasenergy",
+      "params": []
+    }
+  ]
+}

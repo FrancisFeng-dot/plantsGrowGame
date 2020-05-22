@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskrightleaves",
+    "texture": "7e5c8266-afde-49ce-ba8c-e03656a34c3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      141
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

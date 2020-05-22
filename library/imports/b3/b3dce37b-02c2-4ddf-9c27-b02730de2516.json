@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskreceive",
+    "texture": "cd4c1a6d-95dd-4361-93d2-a6f6bad76e30",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      183,
+      85
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      184,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

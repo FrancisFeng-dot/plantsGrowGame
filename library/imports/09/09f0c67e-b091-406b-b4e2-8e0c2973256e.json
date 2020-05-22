@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskcheckin",
+    "texture": "e7e7e592-a2a7-4fc6-a55e-10db8c3d9cbd",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      126,
+      127
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      130,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

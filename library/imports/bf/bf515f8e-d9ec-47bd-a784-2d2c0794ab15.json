@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windmill",
+    "texture": "ce179eb1-be08-4961-b8ff-2de8e3b5b4fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      72
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      48,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

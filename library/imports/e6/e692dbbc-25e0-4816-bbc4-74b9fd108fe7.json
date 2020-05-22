@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beingplant",
+    "texture": "42f1eea2-05a2-4e86-8129-491f098ecacd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

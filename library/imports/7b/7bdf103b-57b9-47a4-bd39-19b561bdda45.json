@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "musicclose",
+    "texture": "9fd86877-1822-44b7-8702-91d58e105f20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

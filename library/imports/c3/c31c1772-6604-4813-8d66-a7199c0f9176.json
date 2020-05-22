@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskleftleaves",
+    "texture": "400b21a4-2696-4b89-b14c-0d491104bd99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      110,
+      107
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      112,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "masksharetocircle",
+    "texture": "bd1c27b1-50de-4c4e-94ec-874c69e9ed05",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      126,
+      127
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      130,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

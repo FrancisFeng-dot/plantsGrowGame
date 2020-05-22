@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconaddfri01",
+    "texture": "8ef1d323-e5dc-40fb-b320-1ed237729f69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      114
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      114,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

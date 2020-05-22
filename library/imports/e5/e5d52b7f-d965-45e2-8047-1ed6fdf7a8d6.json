@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "justone",
+    "texture": "2047335b-cc20-409a-8126-c5477967aa28",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      546,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      548,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

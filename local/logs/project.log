@@ -1,0 +1,1206 @@
+2019-07-05T04:06:52.012Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-05T04:06:53.167Z - normal: Initializing Asset Database
+2019-07-05T04:06:53.170Z - normal: checking language setting...
+2019-07-05T04:06:53.170Z - normal: Language: zh
+2019-07-05T04:06:53.749Z - success: preview server running at http://localhost:7456
+2019-07-05T04:06:53.751Z - success: protocol editor-framework registered
+2019-07-05T04:06:53.751Z - success: protocol app registered
+2019-07-05T04:06:53.751Z - success: protocol theme registered
+2019-07-05T04:06:53.751Z - success: protocol packages registered
+2019-07-05T04:06:53.751Z - success: protocol uuid registerred
+2019-07-05T04:06:53.751Z - success: protocol db registerred
+2019-07-05T04:06:53.751Z - success: protocol thumbnail registerred
+2019-07-05T04:06:53.751Z - success: protocol unpack registerred
+2019-07-05T04:06:53.751Z - success: protocol disable-commonjs registerred
+2019-07-05T04:06:53.935Z - normal: connected!
+2019-07-05T04:06:53.938Z - normal: Check project D:\workstore\svnfarmer\public\farmer
+2019-07-05T04:06:53.941Z - normal: Initializing project D:\workstore\svnfarmer\public\farmer
+2019-07-05T04:06:54.293Z - normal: Initializing Cocos2d
+2019-07-05T04:06:54.970Z - normal: Initializing engine extends
+2019-07-05T04:06:54.997Z - success: asset-db-debugger loaded
+2019-07-05T04:06:55.002Z - success: baidu-adapter loaded
+2019-07-05T04:06:55.005Z - success: color-picker loaded
+2019-07-05T04:06:55.079Z - success: fb-audience-network loaded
+2019-07-05T04:06:55.125Z - success: fb-live-stream loaded
+2019-07-05T04:06:55.128Z - success: google-play-instant loaded
+2019-07-05T04:06:55.133Z - success: huawei-runtime loaded
+2019-07-05T04:06:55.339Z - success: cpk-publish loaded
+2019-07-05T04:06:55.340Z - success: jsb-adapter loaded
+2019-07-05T04:06:55.344Z - success: oppo-runtime loaded
+2019-07-05T04:06:55.346Z - success: package-manager loaded
+2019-07-05T04:06:55.446Z - success: qqplay-adapter loaded
+2019-07-05T04:06:55.448Z - success: runtime-dev-tools loaded
+2019-07-05T04:06:55.452Z - success: sdkbox loaded
+2019-07-05T04:06:55.454Z - success: tester loaded
+2019-07-05T04:06:55.456Z - success: ui-grid loaded
+2019-07-05T04:06:55.458Z - success: ui-kit-preview-extra loaded
+2019-07-05T04:06:55.458Z - success: ui-kit-preview loaded
+2019-07-05T04:06:55.460Z - success: ui-kit loaded
+2019-07-05T04:06:55.461Z - success: ui-tree loaded
+2019-07-05T04:06:55.466Z - success: vivo-runtime loaded
+2019-07-05T04:06:55.466Z - success: weapp-adapter loaded
+2019-07-05T04:06:55.467Z - success: xiaomi-adapter loaded
+2019-07-05T04:06:55.507Z - success: assets loaded
+2019-07-05T04:06:55.509Z - success: builder loaded
+2019-07-05T04:06:55.732Z - success: cocos-services loaded
+2019-07-05T04:06:55.736Z - success: console loaded
+2019-07-05T04:06:55.766Z - success: fb-instant-games loaded
+2019-07-05T04:06:55.767Z - success: google-instant-games loaded
+2019-07-05T04:06:55.771Z - success: hierarchy loaded
+2019-07-05T04:06:55.773Z - success: inspector loaded
+2019-07-05T04:06:55.774Z - success: keystore loaded
+2019-07-05T04:06:55.777Z - success: node-library loaded
+2019-07-05T04:06:55.778Z - success: package-asset loaded
+2019-07-05T04:06:55.779Z - success: preferences loaded
+2019-07-05T04:06:55.781Z - success: project-exporter loaded
+2019-07-05T04:06:55.782Z - success: project-importer loaded
+2019-07-05T04:06:55.784Z - success: project-settings loaded
+2019-07-05T04:06:55.787Z - success: scene loaded
+2019-07-05T04:06:55.788Z - success: simulator-debugger loaded
+2019-07-05T04:06:55.789Z - success: sprite-editor loaded
+2019-07-05T04:06:55.792Z - success: store loaded
+2019-07-05T04:06:55.795Z - success: timeline loaded
+2019-07-05T04:06:55.799Z - success: xiaomi-runtime loaded
+2019-07-05T04:06:56.845Z - normal: Loading packages
+2019-07-05T04:06:56.852Z - normal: Watching packages
+2019-07-05T04:06:57.275Z - normal: Run Application
+2019-07-05T04:06:57.453Z - info: Cocos Services load base data!
+2019-07-05T05:56:19.186Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": false,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T05:56:19.190Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T05:56:19.190Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T05:56:19.384Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T05:56:21.509Z - normal: Start building assets
+2019-07-05T05:56:21.509Z - normal: Start spawn build-worker
+2019-07-05T05:56:22.082Z - normal: Finish spawn build-worker
+2019-07-05T05:56:22.082Z - normal: Start init build-worker
+2019-07-05T05:56:24.602Z - normal: Finish init build-worker
+2019-07-05T05:56:24.602Z - normal: Start build-assets in worker
+2019-07-05T05:56:25.498Z - normal: Finish build-assets in worker
+2019-07-05T05:56:25.504Z - normal: Finish building assets
+2019-07-05T05:56:25.537Z - normal: Start building plugin scripts
+2019-07-05T05:56:25.883Z - normal: Finish building plugin scripts
+2019-07-05T05:56:25.898Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T05:56:25.911Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-07-05T05:56:26.452Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T06:58:29.633Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": false,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T06:58:29.637Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T06:58:29.637Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T06:58:29.638Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T06:58:31.556Z - normal: Start building assets
+2019-07-05T06:58:31.556Z - normal: Start spawn build-worker
+2019-07-05T06:58:32.134Z - normal: Finish spawn build-worker
+2019-07-05T06:58:32.134Z - normal: Start init build-worker
+2019-07-05T06:58:34.694Z - normal: Finish init build-worker
+2019-07-05T06:58:34.694Z - normal: Start build-assets in worker
+2019-07-05T06:58:35.418Z - normal: Finish build-assets in worker
+2019-07-05T06:58:35.425Z - normal: Finish building assets
+2019-07-05T06:58:35.463Z - normal: Start building plugin scripts
+2019-07-05T06:58:35.662Z - normal: Finish building plugin scripts
+2019-07-05T06:58:35.666Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T06:58:35.670Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-07-05T06:58:36.278Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T07:04:07.626Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T07:04:07.629Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T07:04:07.629Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T07:04:07.629Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T07:04:09.449Z - normal: Start building assets
+2019-07-05T07:04:09.450Z - normal: Start spawn build-worker
+2019-07-05T07:04:10.010Z - normal: Finish spawn build-worker
+2019-07-05T07:04:10.010Z - normal: Start init build-worker
+2019-07-05T07:04:12.527Z - normal: Finish init build-worker
+2019-07-05T07:04:12.527Z - normal: Start build-assets in worker
+2019-07-05T07:04:13.332Z - normal: Finish build-assets in worker
+2019-07-05T07:04:13.337Z - normal: Finish building assets
+2019-07-05T07:04:13.370Z - normal: Start building plugin scripts
+2019-07-05T07:04:13.377Z - normal: Finish building plugin scripts
+2019-07-05T07:04:13.382Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T07:04:13.404Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T07:04:14.038Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T08:07:14.393Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T08:07:14.396Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T08:07:14.396Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T08:07:14.396Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T08:07:16.219Z - normal: Start building assets
+2019-07-05T08:07:16.219Z - normal: Start spawn build-worker
+2019-07-05T08:07:16.812Z - normal: Finish spawn build-worker
+2019-07-05T08:07:16.812Z - normal: Start init build-worker
+2019-07-05T08:07:19.426Z - normal: Finish init build-worker
+2019-07-05T08:07:19.426Z - normal: Start build-assets in worker
+2019-07-05T08:07:20.195Z - normal: Finish build-assets in worker
+2019-07-05T08:07:20.200Z - normal: Finish building assets
+2019-07-05T08:07:20.233Z - normal: Start building plugin scripts
+2019-07-05T08:07:20.241Z - normal: Finish building plugin scripts
+2019-07-05T08:07:20.245Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T08:07:20.248Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T08:07:20.885Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T08:11:06.720Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T08:11:06.722Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T08:11:06.723Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T08:11:06.723Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T08:11:08.502Z - normal: Start building assets
+2019-07-05T08:11:08.502Z - normal: Start spawn build-worker
+2019-07-05T08:11:09.100Z - normal: Finish spawn build-worker
+2019-07-05T08:11:09.100Z - normal: Start init build-worker
+2019-07-05T08:11:11.715Z - normal: Finish init build-worker
+2019-07-05T08:11:11.716Z - normal: Start build-assets in worker
+2019-07-05T08:11:12.528Z - normal: Finish build-assets in worker
+2019-07-05T08:11:12.533Z - normal: Finish building assets
+2019-07-05T08:11:12.566Z - normal: Start building plugin scripts
+2019-07-05T08:11:12.572Z - normal: Finish building plugin scripts
+2019-07-05T08:11:12.577Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T08:11:12.581Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T08:11:13.271Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T08:16:44.915Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "91f7549d-7c22-4c47-9bb4-da776357a568"
+
+2019-07-05T08:39:32.202Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T08:39:32.205Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T08:39:32.205Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T08:39:32.205Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T08:39:34.013Z - normal: Start building assets
+2019-07-05T08:39:34.013Z - normal: Start spawn build-worker
+2019-07-05T08:39:34.587Z - normal: Finish spawn build-worker
+2019-07-05T08:39:34.587Z - normal: Start init build-worker
+2019-07-05T08:39:37.124Z - normal: Finish init build-worker
+2019-07-05T08:39:37.124Z - normal: Start build-assets in worker
+2019-07-05T08:39:37.884Z - normal: Finish build-assets in worker
+2019-07-05T08:39:37.891Z - normal: Finish building assets
+2019-07-05T08:39:37.923Z - normal: Start building plugin scripts
+2019-07-05T08:39:37.930Z - normal: Finish building plugin scripts
+2019-07-05T08:39:37.933Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T08:39:37.937Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T08:39:38.562Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T08:41:52.801Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T08:41:52.804Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T08:41:52.804Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T08:41:52.805Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T08:41:55.109Z - normal: Start building assets
+2019-07-05T08:41:55.109Z - normal: Start spawn build-worker
+2019-07-05T08:41:55.682Z - normal: Finish spawn build-worker
+2019-07-05T08:41:55.682Z - normal: Start init build-worker
+2019-07-05T08:41:58.208Z - normal: Finish init build-worker
+2019-07-05T08:41:58.208Z - normal: Start build-assets in worker
+2019-07-05T08:41:58.970Z - normal: Finish build-assets in worker
+2019-07-05T08:41:58.979Z - normal: Finish building assets
+2019-07-05T08:41:59.011Z - normal: Start building plugin scripts
+2019-07-05T08:41:59.023Z - normal: Finish building plugin scripts
+2019-07-05T08:41:59.026Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T08:41:59.031Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T08:41:59.653Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T08:46:59.581Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T08:46:59.584Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T08:46:59.584Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T08:46:59.584Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T08:47:01.290Z - normal: Start building assets
+2019-07-05T08:47:01.290Z - normal: Start spawn build-worker
+2019-07-05T08:47:01.926Z - normal: Finish spawn build-worker
+2019-07-05T08:47:01.926Z - normal: Start init build-worker
+2019-07-05T08:47:04.505Z - normal: Finish init build-worker
+2019-07-05T08:47:04.505Z - normal: Start build-assets in worker
+2019-07-05T08:47:05.274Z - normal: Finish build-assets in worker
+2019-07-05T08:47:05.283Z - normal: Finish building assets
+2019-07-05T08:47:05.317Z - normal: Start building plugin scripts
+2019-07-05T08:47:05.324Z - normal: Finish building plugin scripts
+2019-07-05T08:47:05.327Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T08:47:05.333Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T08:47:05.971Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T09:00:22.158Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T09:00:22.161Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T09:00:22.161Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T09:00:22.161Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T09:00:23.928Z - normal: Start building assets
+2019-07-05T09:00:23.928Z - normal: Start spawn build-worker
+2019-07-05T09:00:24.496Z - normal: Finish spawn build-worker
+2019-07-05T09:00:24.496Z - normal: Start init build-worker
+2019-07-05T09:00:27.005Z - normal: Finish init build-worker
+2019-07-05T09:00:27.005Z - normal: Start build-assets in worker
+2019-07-05T09:00:27.745Z - normal: Finish build-assets in worker
+2019-07-05T09:00:27.750Z - normal: Finish building assets
+2019-07-05T09:00:27.783Z - normal: Start building plugin scripts
+2019-07-05T09:00:27.791Z - normal: Finish building plugin scripts
+2019-07-05T09:00:27.795Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T09:00:27.797Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T09:00:28.424Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T09:02:22.727Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T09:02:22.729Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T09:02:22.729Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T09:02:22.730Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T09:02:24.598Z - normal: Start building assets
+2019-07-05T09:02:24.598Z - normal: Start spawn build-worker
+2019-07-05T09:02:25.233Z - normal: Finish spawn build-worker
+2019-07-05T09:02:25.233Z - normal: Start init build-worker
+2019-07-05T09:02:27.858Z - normal: Finish init build-worker
+2019-07-05T09:02:27.858Z - normal: Start build-assets in worker
+2019-07-05T09:02:28.610Z - normal: Finish build-assets in worker
+2019-07-05T09:02:28.618Z - normal: Finish building assets
+2019-07-05T09:02:28.650Z - normal: Start building plugin scripts
+2019-07-05T09:02:28.659Z - normal: Finish building plugin scripts
+2019-07-05T09:02:28.662Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T09:02:28.666Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T09:02:29.363Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T09:05:35.620Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T09:05:35.622Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T09:05:35.622Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T09:05:35.623Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T09:05:37.420Z - normal: Start building assets
+2019-07-05T09:05:37.421Z - normal: Start spawn build-worker
+2019-07-05T09:05:37.988Z - normal: Finish spawn build-worker
+2019-07-05T09:05:37.988Z - normal: Start init build-worker
+2019-07-05T09:05:40.521Z - normal: Finish init build-worker
+2019-07-05T09:05:40.521Z - normal: Start build-assets in worker
+2019-07-05T09:05:41.256Z - normal: Finish build-assets in worker
+2019-07-05T09:05:41.261Z - normal: Finish building assets
+2019-07-05T09:05:41.293Z - normal: Start building plugin scripts
+2019-07-05T09:05:41.300Z - normal: Finish building plugin scripts
+2019-07-05T09:05:41.304Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T09:05:41.308Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T09:05:41.930Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T09:09:43.350Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": true,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": true,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T09:09:43.352Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T09:09:43.352Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T09:09:43.353Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T09:09:45.055Z - normal: Start building assets
+2019-07-05T09:09:45.055Z - normal: Start spawn build-worker
+2019-07-05T09:09:45.630Z - normal: Finish spawn build-worker
+2019-07-05T09:09:45.630Z - normal: Start init build-worker
+2019-07-05T09:09:48.165Z - normal: Finish init build-worker
+2019-07-05T09:09:48.165Z - normal: Start build-assets in worker
+2019-07-05T09:09:49.167Z - normal: Finish build-assets in worker
+2019-07-05T09:09:49.177Z - normal: Finish building assets
+2019-07-05T09:09:49.209Z - normal: Start building plugin scripts
+2019-07-05T09:09:49.216Z - normal: Finish building plugin scripts
+2019-07-05T09:09:49.219Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T09:09:49.222Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template-dev\index.html
+2019-07-05T09:09:49.858Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T10:13:57.648Z - warn: The Asset used by component "cc.AudioSource" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "f00086b6-7704-4ab7-ae39-8711b06cbb22"
+
+2019-07-05T10:48:06.945Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\workstore\\svnfarmer\\public\\farmer\\build",
+  "debug": false,
+  "dest": "D:\\workstore\\svnfarmer\\public\\farmer\\build\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.farmer",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "938ee12e-ee93-4395-a2c5-210a35e0dc17"
+  ],
+  "sourceMaps": true,
+  "startScene": "938ee12e-ee93-4395-a2c5-210a35e0dc17",
+  "template": "link",
+  "title": "farmer",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a11443a4-92f5-49",
+  "zipCompressJs": true,
+  "project": "D:\\workstore\\svnfarmer\\public\\farmer",
+  "projectName": "farmer",
+  "debugBuildWorker": false
+}
+2019-07-05T10:48:06.948Z - normal: Building D:\workstore\svnfarmer\public\farmer
+2019-07-05T10:48:06.948Z - normal: Destination D:\workstore\svnfarmer\public\farmer\build\web-mobile
+2019-07-05T10:48:06.949Z - normal: Delete D:\workstore\svnfarmer\public\farmer\build\web-mobile\subpackages/**/*,D:\workstore\svnfarmer\public\farmer\build\web-mobile\**\*
+2019-07-05T10:48:08.913Z - normal: Start building assets
+2019-07-05T10:48:08.913Z - normal: Start spawn build-worker
+2019-07-05T10:48:09.484Z - normal: Finish spawn build-worker
+2019-07-05T10:48:09.484Z - normal: Start init build-worker
+2019-07-05T10:48:12.000Z - normal: Finish init build-worker
+2019-07-05T10:48:12.000Z - normal: Start build-assets in worker
+2019-07-05T10:48:12.732Z - normal: Finish build-assets in worker
+2019-07-05T10:48:12.740Z - normal: Finish building assets
+2019-07-05T10:48:12.775Z - normal: Start building plugin scripts
+2019-07-05T10:48:12.976Z - normal: Finish building plugin scripts
+2019-07-05T10:48:12.980Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-07-05T10:48:12.984Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-07-05T10:48:13.551Z - normal: Built to "D:\workstore\svnfarmer\public\farmer\build\web-mobile" successfully
+2019-07-05T10:50:45.577Z - info: shutdown preview server

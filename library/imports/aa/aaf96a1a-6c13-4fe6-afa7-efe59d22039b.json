@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskqr",
+    "texture": "cf34de89-0d24-442b-9897-e760e6cc8497",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      651,
+      797
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      652,
+      798
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

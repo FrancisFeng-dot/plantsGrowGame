@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friendtip",
+    "texture": "71b3c454-fec6-4fc8-b606-91cca5b20564",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      709,
+      153
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      714,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

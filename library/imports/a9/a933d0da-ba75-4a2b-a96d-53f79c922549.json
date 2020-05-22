@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qrcode",
+    "texture": "6a488495-b2be-423e-a82a-d9cc6a0cdb27",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      378,
+      383
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      382,
+      384
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

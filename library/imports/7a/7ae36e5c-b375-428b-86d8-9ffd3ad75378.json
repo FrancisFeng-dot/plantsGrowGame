@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiltedkettle",
+    "texture": "97baf2bd-6508-45e1-b0ca-5265184cf44b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      194
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      216,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

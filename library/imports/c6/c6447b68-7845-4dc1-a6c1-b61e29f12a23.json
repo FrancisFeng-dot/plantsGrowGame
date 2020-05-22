@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waterdroplets01",
+    "texture": "a9591617-dd10-4a26-b04b-5e5a3290d508",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

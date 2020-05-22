@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mountcloud",
+    "texture": "f592b5d1-250d-4789-8ebf-8dccbb256c1b",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      705,
+      540
+    ],
+    "offset": [
+      2,
+      1
+    ],
+    "originalSize": [
+      709,
+      542
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

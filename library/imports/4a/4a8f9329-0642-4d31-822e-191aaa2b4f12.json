@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dividline",
+    "texture": "fa767deb-a4a1-4240-907d-ac063d07126d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      710,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      710,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

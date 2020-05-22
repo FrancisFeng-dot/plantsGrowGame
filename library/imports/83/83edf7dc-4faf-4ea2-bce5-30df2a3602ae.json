@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftcloud",
+    "texture": "c1d74cf8-ec05-498d-b491-96cb328ab3b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      593,
+      1206
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      594,
+      1206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

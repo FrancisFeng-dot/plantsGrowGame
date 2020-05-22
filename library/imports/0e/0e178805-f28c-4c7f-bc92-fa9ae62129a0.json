@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "halo",
+    "texture": "6cee1a9e-5bbb-429d-9f59-170d557f39f6",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      230,
+      233
+    ],
+    "offset": [
+      -4,
+      2.5
+    ],
+    "originalSize": [
+      248,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

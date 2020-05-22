@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sacleflower",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5833333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.95
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 1.04
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 1.05
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 0.96
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

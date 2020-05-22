@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskfriends",
+    "texture": "ac546d0e-cc61-4463-ac72-82bd09e4b791",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      127,
+      127
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      130,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

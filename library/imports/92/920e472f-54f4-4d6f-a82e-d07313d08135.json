@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconwaterdrop2",
+    "texture": "72ffe157-627d-4bc2-b800-49bf9dfdf4ce",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      23,
+      30
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      24,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

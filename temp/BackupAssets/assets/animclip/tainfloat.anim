@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tainfloat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10.066666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 8,
+          "value": 255
+        },
+        {
+          "frame": 10,
+          "value": 0
+        },
+        {
+          "frame": 10.033333333333333,
+          "value": 0
+        },
+        {
+          "frame": 10.066666666666666,
+          "value": 255
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": 122.5
+        },
+        {
+          "frame": 8,
+          "value": 40
+        },
+        {
+          "frame": 10,
+          "value": 22.5
+        },
+        {
+          "frame": 10.033333333333333,
+          "value": 122.5
+        },
+        {
+          "frame": 10.066666666666666,
+          "value": 122.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

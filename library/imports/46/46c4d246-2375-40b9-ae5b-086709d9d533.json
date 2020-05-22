@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaves3",
+    "texture": "05839d8f-acf8-4a6e-b7b0-be46972c3ad1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      257
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      246,
+      258
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

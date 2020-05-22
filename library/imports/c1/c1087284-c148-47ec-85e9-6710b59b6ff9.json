@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "runnerbow",
+    "texture": "f654e2da-afd0-4b52-800c-a90fdd08761a",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      516,
+      520
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      520,
+      520
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

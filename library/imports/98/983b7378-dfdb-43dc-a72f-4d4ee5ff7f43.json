@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantnow",
+    "texture": "a446334c-5af2-47de-bd0d-4e20bb70fbf9",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      221,
+      85
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      224,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

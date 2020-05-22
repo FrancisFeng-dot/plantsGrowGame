@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconcheat",
+    "texture": "c750b56c-10fc-421f-9a4e-e1ab3b535c36",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      64,
+      48
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      68,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

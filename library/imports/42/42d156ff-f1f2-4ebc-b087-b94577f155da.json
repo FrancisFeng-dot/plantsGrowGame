@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wordback02",
+    "texture": "0e699a7d-9c42-4326-9f79-7c647beaabce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

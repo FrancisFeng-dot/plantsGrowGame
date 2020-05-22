@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btninviteenergy",
+    "texture": "d4243e65-a679-4172-a5d7-3069dfaa9f9d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      250,
+      90
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      254,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

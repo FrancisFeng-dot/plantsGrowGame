@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "layerfriheader",
+    "texture": "ba05e6b7-ab30-4f00-91d3-c28dd615f114",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      432,
+      204
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      432,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

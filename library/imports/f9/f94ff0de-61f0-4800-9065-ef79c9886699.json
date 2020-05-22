@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "elderfarmer",
+    "texture": "0874e07c-1afc-4aea-a33f-0841c205b799",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

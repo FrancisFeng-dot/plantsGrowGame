@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "onewater",
+    "texture": "206d9ddf-c78d-4289-be06-83ede07adaf2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
